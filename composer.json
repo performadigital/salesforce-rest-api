@@ -2,9 +2,9 @@
   "name": "gmo/salesforce-rest-api",
   "license": "MIT",
   "require": {
-    "psr/log": "1.0.2",
+    "psr/log": "*",
     "php": "^7.0",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": "*",
     "doctrine/collections": "^1.4"
   },
   "autoload": {
